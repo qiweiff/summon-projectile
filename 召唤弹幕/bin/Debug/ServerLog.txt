@@ -1,0 +1,4 @@
+[08/26/22 20:36:57] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[08/26/22 20:36:57] [Server API] Verbose: 	Command line: "E:\桌面\奇威服务器开服包\TerrariaServer.exe" E:\Tshockplunge\召唤弹幕\召唤弹幕\bin\Debug\召唤弹幕.dll
+[08/26/22 20:36:57] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[08/26/22 20:36:57] [Server API] Verbose: 	Mono: False
